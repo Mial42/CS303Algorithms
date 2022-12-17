@@ -1,1 +1,1 @@
-Homework 1 for CS303.
+There was no code for this assignment, hence why it was empty.
